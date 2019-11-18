@@ -1,0 +1,4 @@
+2019-11-18 12:07:57,800 1      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Mon Nov 18 12:07:57 CST 2019]; root of context hierarchy
+2019-11-18 12:07:57,873 74     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring.xml]
+2019-11-18 13:32:21,017 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@380fb434: startup date [Mon Nov 18 13:32:21 CST 2019]; root of context hierarchy
+2019-11-18 13:32:21,075 58     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring.xml]
