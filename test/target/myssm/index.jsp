@@ -4,7 +4,7 @@
     <title>Title</title>
 </head>
 <body>
-<a href="users/findUsers">测试查询</a>
+<a href="users/findUsers">显示数据库</a>
 <hr>
 <form method="post" action="users/insert">
     用户：<input type="text" name="username"><br>
